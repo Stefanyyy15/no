@@ -1,3 +1,10 @@
 {
-    "Usuarios": {}
+    "Usuarios": {
+        "1010": {
+            "Nombre": "santiago",
+            "Edad": "10",
+            "Estado": "idk",
+            "Correo": "si@gmail.com"
+        }
+    }
 }
