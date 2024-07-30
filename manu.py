@@ -1,3 +1,5 @@
+from eliminar import *
+from all import *
 
 
 def menu():
@@ -9,9 +11,12 @@ def menu():
         opc = int(input("->"))
         if opc == 1:
             print("accediendo")
+            registrar()
         elif opc == 2:
             print("accediendo")
+            modificar()
         elif opc == 3:
             print("accediendo")
+            elim()
         elif opc == len(list):
             print("------saliendo------")
