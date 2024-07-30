@@ -20,3 +20,5 @@ def menu():
             elim()
         elif opc == len(list):
             print("------saliendo------")
+
+menu()
