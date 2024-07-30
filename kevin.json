@@ -1,5 +1,10 @@
 {
-    "Usuarios":{
-        
+    "Usuarios": {
+        "1010": {
+            "Nombre": "Tefa",
+            "Edad": "15",
+            "Estado": "Orlando",
+            "Correo": "tata@gamil.com"
+        }
     }
 }
